@@ -1,0 +1,10 @@
+# ---- daily automation (GitHub Actions ko sirf ye 2 chahiye) ----
+requests==2.32.3
+beautifulsoup4==4.12.3
+
+# ---- sirf ASCII portrait banane ke liye (local machine par) ----
+# ye 3 lines comment (#) hi rehne do agar tum Actions me install kar rahe ho
+# pillow
+# numpy
+# opencv-python-headless
+# rembg
